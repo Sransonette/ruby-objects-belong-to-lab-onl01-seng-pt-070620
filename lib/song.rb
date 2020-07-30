@@ -1,6 +1,6 @@
 class Title 
   
-  attr_accessor :title 
+  attr_accessor :name 
   
   def initialize
     

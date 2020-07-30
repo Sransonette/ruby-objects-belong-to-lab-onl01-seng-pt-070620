@@ -1,6 +1,6 @@
-class Post 
+class Post
   
-  attr_accessor :title
+  attr_accessor :title.author = author
   
   def initialize
     

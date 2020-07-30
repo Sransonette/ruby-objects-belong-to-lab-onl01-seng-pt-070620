@@ -11,7 +11,7 @@ class Author
   end
   
   
-  uncle_bob
+  uncle_bob = Author.new("Uncle Bob")
   
   
   

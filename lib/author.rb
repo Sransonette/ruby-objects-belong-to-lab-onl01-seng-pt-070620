@@ -1,6 +1,6 @@
 class Author 
   
-  attr_accessor :Author
+  attr_accessor :author
   
   def initialize
     
